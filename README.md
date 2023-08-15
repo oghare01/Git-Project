@@ -20,5 +20,8 @@ I proceeded to specify my email and when I made the commit it worked just fine!
 ![branch creation](https://github.com/oghare01/Git-Project/assets/141191975/8fa35dd0-61ab-4be2-b997-734b50cfa446)
 
 
-4. 
+4. I poceeded to make a text modification on the first brand merged the branches as shown below
+
+![Branch update and merger ](https://github.com/oghare01/Git-Project/assets/141191975/3d2c678b-8539-4b03-80a3-e1e2a4936f0e)
+
    
