@@ -14,6 +14,7 @@ I proceeded to specify my email and when I made the commit it worked just fine!
 
 ![git init successful](https://github.com/oghare01/Git-Project/assets/141191975/3e7f81cd-0eb5-43f0-aed4-9890ad960b14)
 
+3. Next I 
 
 
    
