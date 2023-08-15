@@ -10,6 +10,7 @@ These steps are shown in the screenshot below
    See below above steps and error message
 
    ![Error due to user unspecified](https://github.com/oghare01/Git-Project/assets/141191975/c90e86c9-8d2e-4c2c-9579-8869fcec3922)
+
 I proceeded to specify my email and when I made the commit it worked just fine!
 
 ![git init successful](https://github.com/oghare01/Git-Project/assets/141191975/3e7f81cd-0eb5-43f0-aed4-9890ad960b14)
