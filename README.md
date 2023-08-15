@@ -9,7 +9,7 @@ These steps are shown in the screenshot below
    When I tried to make my commit, I got an error. This was because I had not specified my email earlier.
    See below above steps and error message
 
-   ![Error due to user unspecified](https://github.com/oghare01/Git-Project/assets/141191975/c90e86c9-8d2e-4c2c-9579-8869fcec3922)
+![Error due to user unspecified](https://github.com/oghare01/Git-Project/assets/141191975/c90e86c9-8d2e-4c2c-9579-8869fcec3922)
 
 I proceeded to specify my email and when I made the commit it worked just fine!
 
@@ -25,3 +25,7 @@ I proceeded to specify my email and when I made the commit it worked just fine!
 ![Branch update and merger ](https://github.com/oghare01/Git-Project/assets/141191975/3d2c678b-8539-4b03-80a3-e1e2a4936f0e)
 
    
+5. The "main" branch was deleted using the git branch -d command
+
+![branch deletion](https://github.com/oghare01/Git-Project/assets/141191975/7654e898-9918-4a8d-9e73-093272d0af0d)
+
