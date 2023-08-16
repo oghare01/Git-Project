@@ -29,3 +29,17 @@ I proceeded to specify my email and when I made the commit it worked just fine!
 
 ![branch deletion](https://github.com/oghare01/Git-Project/assets/141191975/7654e898-9918-4a8d-9e73-093272d0af0d)
 
+6. A new repository was created to work on the next phase as shown below
+
+![sharing test repository ](https://github.com/oghare01/Git-Project/assets/141191975/10587dc4-ee09-4117-a49b-ddac0c97e6fb)
+
+7. The new git repository was pushed which can be seen in the image below
+
+   ![gitpush ](https://github.com/oghare01/Git-Project/assets/141191975/665de341-55ba-4521-a080-1a8e2753c931)
+
+8. Git was then cloned by another
+
+   ![git cloned](https://github.com/oghare01/Git-Project/assets/141191975/0f727281-ebb7-4b47-ac61-5c64e13e2e92)
+
+
+
